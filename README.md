@@ -1,8 +1,5 @@
-Here’s a concise summary for a **GitHub README** file to explain how to run the React and Node.js application:
 
----
-
-# React & Node.js App
+# Uzuri React & Node.js App
 
 This is a simple web application that uses a Node.js backend to serve user data and a React frontend with TypeScript to display the data dynamically.
 
